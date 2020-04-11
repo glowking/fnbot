@@ -1,0 +1,36 @@
+{
+    "Bot Version": "1.2.0",
+    "Auto Start": true,
+    "Default item search language": "en",
+    "Secret Password": "b0a699c921c24e1e8664441b989b2f87",
+    "Account": {
+      "Email": "admin3@glowking.tk",
+      "Password": "Lobbybot33",
+      "Sub Accounts": {}
+    },
+    "Control": {
+      "Give full access to": "glowking-_-",
+      "Public Bot": true
+    },
+    "Party": {
+      "Join party on invitation": true,
+      "Cosmetics": {
+        "Banner": {
+          "Banner Color": "defaultcolor15",
+          "Banner Name": "OtherBanner28",
+          "Season Level": 1000
+        },
+        "Skin": "Galaxy",
+        "Skin Variants": [],
+        "Backpack": "",
+        "Backpack Variants":[],
+        "Pet": "",
+        "Pet Variants":[],
+        "Pickaxe": "",
+        "Emote": "True Heart",
+        "Emoji": ""
+      },
+      "Privacy": "Public",
+      "Platform": "Playstation"
+    }
+  }
